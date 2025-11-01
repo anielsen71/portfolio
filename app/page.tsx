@@ -5,10 +5,10 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 mb-8">
           {/* Left Column */}
           <div className="space-y-6">
-            {/* Engaging Tag Line - Sharp corners */}
-            <div className="bg-gray-100 p-6 text-center">
-              <p className="text-xl font-medium text-gray-800">
-                Building software that stands the test of time
+            {/* Engaging Tag Line - Stylized */}
+            <div className="py-4">
+              <p className="text-2xl md:text-3xl font-bold text-gray-800 italic text-left" style={{ fontFamily: 'var(--font-caveat), cursive' }}>
+                Dropping Zero's and One's until they stick
               </p>
             </div>
 
