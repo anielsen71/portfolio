@@ -8,7 +8,7 @@ export default function Home() {
             {/* Engaging Tag Line - Stylized */}
             <div className="py-4">
               <p className="text-2xl md:text-3xl font-bold text-gray-800 italic text-left" style={{ fontFamily: 'var(--font-caveat), cursive' }}>
-                Dropping Zero's and One's until they stick
+                Dropping Zero&apos;s and One&apos;s until they stick
               </p>
             </div>
 
